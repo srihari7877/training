@@ -10,7 +10,8 @@ public class VariablesEx {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
      System.out.println(VariablesEx.j);
-     
+     System.out.println(VariablesEx.j);
+System.out.println(VariablesEx.j);
      VariablesEx c1 =new VariablesEx();
      
      System.out.println(c1.j);
